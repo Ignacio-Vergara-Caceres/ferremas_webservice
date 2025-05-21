@@ -1,0 +1,101 @@
+[
+  {
+    "Código del producto": "FER-10001",
+    "Categoría": "Herramientas Manuales",
+    "Marca": "Tramontina",
+    "Código": "TRA-001",
+    "Nombre": "Martillo Uña Carpintero",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 5990 }],
+    "Stock": 150
+  },
+  {
+    "Código del producto": "FER-10002",
+    "Categoría": "Herramientas Manuales",
+    "Marca": "Stanley",
+    "Código": "STA-002",
+    "Nombre": "Set Destornilladores",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 8490 }],
+    "Stock": 100
+  },
+  {
+    "Código del producto": "FER-10003",
+    "Categoría": "Herramientas Eléctricas",
+    "Marca": "Bosch",
+    "Código": "BOS-67890",
+    "Nombre": "Taladro Percutor Bosch",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 89090.99 }],
+    "Stock": 60
+  },
+  {
+    "Código del producto": "FER-10004",
+    "Categoría": "Herramientas Eléctricas",
+    "Marca": "Makita",
+    "Código": "MAK-045",
+    "Nombre": "Sierra Circular 7-1/4''",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 65990 }],
+    "Stock": 45
+  },
+  {
+    "Código del producto": "FER-20001",
+    "Categoría": "Materiales Básicos",
+    "Marca": "Melón",
+    "Código": "MEL-050",
+    "Nombre": "Saco de Cemento 25kg",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 4290 }],
+    "Stock": 320
+  },
+  {
+    "Código del producto": "FER-20002",
+    "Categoría": "Materiales Básicos",
+    "Marca": "San Pedro",
+    "Código": "SPD-101",
+    "Nombre": "Metro cúbico de Arena",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 15990 }],
+    "Stock": 25
+  },
+  {
+    "Código del producto": "FER-30001",
+    "Categoría": "Equipos de Seguridad",
+    "Marca": "3M",
+    "Código": "3M-SEC-001",
+    "Nombre": "Casco de Seguridad Industrial",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 8990 }],
+    "Stock": 70
+  },
+  {
+    "Código del producto": "FER-30002",
+    "Categoría": "Equipos de Seguridad",
+    "Marca": "3M",
+    "Código": "3M-SEC-002",
+    "Nombre": "Lentes de Seguridad Antiempañantes",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 5990 }],
+    "Stock": 120
+  },
+  {
+    "Código del producto": "FER-40001",
+    "Categoría": "Tornillos y Anclajes",
+    "Marca": "Sodimac",
+    "Código": "SDM-100",
+    "Nombre": "Pack 100 Tornillos Madera",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 3490 }],
+    "Stock": 500
+  },
+  {
+    "Código del producto": "FER-50001",
+    "Categoría": "Fijaciones y Adhesivos",
+    "Marca": "Pattex",
+    "Código": "PTX-200",
+    "Nombre": "Adhesivo de Montaje 300ml",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 4990 }],
+    "Stock": 200
+  },
+  {
+    "Código del producto": "FER-60001",
+    "Categoría": "Equipos de Medición",
+    "Marca": "Bosch",
+    "Código": "BOS-MED-01",
+    "Nombre": "Medidor Láser de Distancia",
+    "Precio": [{ "Fecha": "2024-07-20T00:00:00.000Z", "Valor": 39990 }],
+    "Stock": 30
+  }
+]
